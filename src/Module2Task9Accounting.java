@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Module2TAsk9Accounting {
+public class Module2Task9Accounting {
     static double basePay = 1.5;
     static int hoursWorked = 10;
 

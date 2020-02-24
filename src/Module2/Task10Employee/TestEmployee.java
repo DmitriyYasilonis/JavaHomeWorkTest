@@ -6,9 +6,9 @@ public class TestEmployee implements ITest
     {
         String result = "\n";
         int id = (int)(Math.random() * Integer.MAX_VALUE);
-        result += testEmployee("Fidya", "Petrov", id) + "\n";
-        result += testEmployee("Lida", "Ivanova") + "\n";
-        result += testEmployee("Yulia", "Balenko") + "\n";
+        result += testEmployee("name 1", "surname 1", id) + "\n";
+        result += testEmployee("name 2", "surname 2") + "\n";
+        result += testEmployee("name 3", "surname 3") + "\n";
         return result;
     }
 

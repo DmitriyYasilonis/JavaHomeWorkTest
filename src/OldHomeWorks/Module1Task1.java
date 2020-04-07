@@ -1,3 +1,5 @@
+package OldHomeWorks;
+
 public class Module1Task1 {
     public static void main(String[] args) {
         double a = 2;

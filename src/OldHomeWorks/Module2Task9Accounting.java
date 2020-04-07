@@ -1,3 +1,5 @@
+package OldHomeWorks;
+
 import java.util.Scanner;
 
 public class Module2Task9Accounting {

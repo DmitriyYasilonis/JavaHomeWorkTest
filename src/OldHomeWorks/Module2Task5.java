@@ -1,3 +1,5 @@
+package OldHomeWorks;
+
 public class Module2Task5 {
     // Task5
     public static int search(int arr[], int x) {

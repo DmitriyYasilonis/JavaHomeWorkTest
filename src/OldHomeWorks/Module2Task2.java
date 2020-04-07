@@ -1,3 +1,5 @@
+package OldHomeWorks;
+
 public class Module2Task2 {
     // Task2
     public static void main(String[] Strings) {

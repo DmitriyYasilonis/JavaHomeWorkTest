@@ -1,3 +1,5 @@
+package OldHomeWorks;
+
 public class Module2Task8Card {
     private final int rank;
     private final int suit;

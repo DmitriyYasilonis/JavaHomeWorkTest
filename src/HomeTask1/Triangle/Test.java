@@ -1,8 +1,4 @@
-package HomeTask1.Triangle.Triangle;
-
-import HomeTask1.Triangle.Triangle.Point;
-import HomeTask1.Triangle.Triangle.Triangle;
-import HomeTask1.Triangle.Triangle.TriangleException;
+package HomeTask1.Triangle;
 
 public class Test {
 

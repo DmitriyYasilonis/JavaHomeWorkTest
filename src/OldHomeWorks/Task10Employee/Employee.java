@@ -1,4 +1,4 @@
-package Module2.Task10Employee;
+package OldHomeWorks.Task10Employee;
 
 import java.util.Random;
 
